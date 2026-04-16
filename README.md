@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**seanbouk/seanbouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sean Thompson
 
-Here are some ideas to get you started:
+**Builder of things. Breaker of builds.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+</div>
+
+## Projects
+
+> A selection of things I’ve built, tinkered with, or am currently neglecting.
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| _Coming soon_ | _Watch this space_ | — |
+
+<details>
+<summary><strong>Archived / On Ice</strong></summary>
+
+<br>
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| _Coming soon_ | _The graveyard of good intentions_ | — |
+
+</details>
+
+---
+
+<sub>Last updated: April 2026</sub>
