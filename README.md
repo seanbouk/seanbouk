@@ -6,7 +6,7 @@
 
 </div>
 
-> [!NOTA BENE]
+> [!NOTE]
 > This is a living document. Things move between sections as motivation allows.
 
 ## Projects
@@ -184,7 +184,7 @@ A collection of small web tools from over the years — Paint Mixer, Camera Sett
 
 ---
 
-> [!NOTA BENE]
+> [!NOTE]
 > Most of these started as "I wonder if..." and spiralled from there.
 
 ---
