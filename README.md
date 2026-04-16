@@ -150,7 +150,7 @@ Converts RGB images into tile-based representations optimised for the Sega Mega 
 
 `Python` `Pillow` `NumPy` `scikit-learn`
 
-[Repo](https://github.com/seanbouk/quantizeMD)　`▓▒░░▒▓`
+[Repo](https://github.com/seanbouk/quantizeMD)　`##::..::##`
 
 ---
 
