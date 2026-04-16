@@ -12,20 +12,13 @@
 
 > A selection of things I’ve built, tinkered with, or am currently neglecting.
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| _Coming soon_ | _Watch this space_ | — |
+### Active
 
-<details>
-<summary><strong>Archived / On Ice</strong></summary>
+- **Project Name** — Short description of what it does and why it exists. `stack` `tags` `here`
 
-<br>
+### On Ice
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| _Coming soon_ | _The graveyard of good intentions_ | — |
-
-</details>
+- **Project Name** — The graveyard of good intentions. `stack` `tags` `here`
 
 ---
 
