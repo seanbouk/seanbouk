@@ -143,7 +143,7 @@ A political quiz that measures where you fall across 12 independent scales — f
 
 ### ![adblacker](https://img.shields.io/badge/Ad_Blacker-2d3436?style=for-the-badge)
 
-> [!WARNING]
+> [!CAUTION]
 > Paused while finding time to make it more performant.
 
 A Chrome extension that hides ads by covering them with black rectangles instead of blocking them from loading. Ads execute normally — they're just invisible. This sidesteps anti-adblock detection entirely. Click any black rectangle to whitelist it. 13,000+ cosmetic filter selectors, auto-updating weekly.
@@ -184,8 +184,8 @@ A collection of small web tools from over the years — Paint Mixer, Camera Sett
 
 ---
 
-> [!NOTE]
-> Most of these started as "I wonder if..." and spiralled from there.
+> [!TIP]
+> The contribution chart below is misleading — most of my work lives on a different account. Visit my [work profile](https://github.com/sean-thompson) for something more complete.
 
 ---
 
