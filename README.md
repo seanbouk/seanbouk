@@ -11,8 +11,6 @@
 
 ## Projects
 
----
-
 ### ![title](https://img.shields.io/badge/Omega_Platform-6c5ce7?style=for-the-badge)　₍ᐢ..ᐢ₎
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.[^1]
@@ -20,8 +18,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 `TypeScript` `React` `PostgreSQL`
 
 [Repo](https://github.com/seanbouk) · [Live Demo](https://github.com/seanbouk)
-
----
 
 ### ![title](https://img.shields.io/badge/Signal_Wire-00b894?style=for-the-badge)　(｡◕‿◕｡)
 
