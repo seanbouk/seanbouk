@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 `TypeScript` `React` `PostgreSQL`
 
-[Repo](https://github.com/seanbouk) · [Live Demo](https://github.com/seanbouk)　₍ᐢ..ᐢ₎
+[Repo](https://github.com/seanbouk) · [Live Demo](https://github.com/seanbouk)　`₍ᐢ..ᐢ₎`
 
 ### ![title](https://img.shields.io/badge/Signal_Wire-00b894?style=for-the-badge)
 
@@ -25,7 +25,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 `Python` `FastAPI` `Redis`
 
-[Repo](https://github.com/seanbouk) · [Docs](https://github.com/seanbouk)　(｡◕‿◕｡)
+[Repo](https://github.com/seanbouk) · [Docs](https://github.com/seanbouk)　`(｡◕‿◕｡)`
 
 ---
 
@@ -35,7 +35,7 @@ Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit la
 
 `Rust` `WebAssembly`
 
-[Repo](https://github.com/seanbouk)　┌(★ω★)┘
+[Repo](https://github.com/seanbouk)　`┌(★ω★)┘`
 
 ---
 
@@ -45,7 +45,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 `Go` `SQLite` `Docker`
 
-[Repo](https://github.com/seanbouk) · [Blog Post](https://github.com/seanbouk)　( ˘ω˘ )zzZ
+[Repo](https://github.com/seanbouk) · [Blog Post](https://github.com/seanbouk)　`( ˘ω˘ )zzZ`
 
 ---
 
