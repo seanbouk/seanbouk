@@ -21,39 +21,22 @@
 
 ## Projects
 
-### Active　₍ᐢ..ᐢ₎ ♡
+### `#2ecc71` Active　₍ᐢ..ᐢ₎ ♡
 
-- **Project Name** — Short description of what it does and why it exists.[^1] `stack` `tags` `here`
+- ![project](https://img.shields.io/badge/Project_Name-2ecc71?style=flat-square) — Short description of what it does and why it exists.[^1] `stack` `tags` `here`
 
-### On Ice　( ˘ω˘ )zzZ
+### `#f39c12` On Ice　( ˘ω˘ )zzZ
 
-- **Project Name** — The graveyard of good intentions. `stack` `tags` `here`
+- ![project](https://img.shields.io/badge/Project_Name-f39c12?style=flat-square) — The graveyard of good intentions. `stack` `tags` `here`
 
-### Archived　┌( ◕ ‿‿ ◕ )┘
+### `#e74c3c` Archived　┌( ◕ ‿‿ ◕ )┘
 
-- **Project Name** — It served its purpose. We salute it. `stack` `tags` `here`
-
----
-
-## How it all connects
-
-```mermaid
-graph LR
-    A[Project A] -->|feeds into| B[Project B]
-    B -->|inspired| C[Project C]
-    C -.->|on ice| D[Project D]
-    style D fill:#555,stroke:#888,color:#ccc
-```
+- ![project](https://img.shields.io/badge/Project_Name-e74c3c?style=flat-square) — It served its purpose. We salute it. `stack` `tags` `here`
 
 ---
 
 > [!NOTE]
 > Most of these started as "I wonder if..." and spiralled from there.
-
-```diff
-- "this will only take an afternoon"
-+ three mass mass mass weeks later...
-```
 
 ---
 
