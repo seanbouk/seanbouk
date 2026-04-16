@@ -124,6 +124,16 @@ A Chrome extension that hides ads by covering them with black rectangles instead
 
 ---
 
+### ![crims-break-out](https://img.shields.io/badge/Crims_Break_Out-f9ca24?style=for-the-badge)
+
+A top-down shooter for one to four players. Break out, gear up, and fight your way through. Built in Roblox Studio.
+
+`Luau` `Roblox Studio`
+
+[Play on Roblox](https://www.roblox.com/games/79742068037803/Crims-Break-Out)　`--(o_o)--<`
+
+---
+
 ### ![extraction-shooter](https://img.shields.io/badge/Extraction_Shooter-e17055?style=for-the-badge)
 
 An MVC starter template for Roblox game development. Strict separation of concerns — models on the server auto-sync to DataStore, controllers validate requests, views observe state changes. Built around "intents, not commands" with binary serialisation via Bolt for bandwidth efficiency.
