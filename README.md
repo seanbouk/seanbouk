@@ -4,20 +4,10 @@
 
 **Builder of things. Breaker of builds.**
 
-```
-┌─────────────────────────────────┐
-│  ╭━━━╮  projects & experiments  │
-│  ┃ ⚙ ┃  from the workshop floor │
-│  ╰━━━╯                         │
-└─────────────────────────────────┘
-```
-
 </div>
 
 > [!TIP]
 > This is a living document. Things move between sections as motivation allows.
-
----
 
 ## Projects
 
