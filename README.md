@@ -6,12 +6,10 @@
 
 </div>
 
-> [!TIP]
-> This is a living document. Things move between sections as motivation allows.
+> [!NOTE]
+> **N.B.** This is a living document. Things move between sections as motivation allows.
 
 ## Projects
-
----
 
 ### ![nokia-grinder](https://img.shields.io/badge/Nokia_Grinder-43d551?style=for-the-badge)
 
@@ -19,7 +17,7 @@ A first-person shooter rendered at 84x48 pixels — the exact resolution of a No
 
 `C#` `Unity` `WebGL` `ShaderLab`
 
-[Repo](https://github.com/seanbouk/nokia-grinder) · [Play](https://seanbouk.github.io/nokia-grinder/) · [itch.io](https://seanofearth.itch.io/chicken-grinder)　`┣▇▇▇═──`
+[Repo](https://github.com/seanbouk/nokia-grinder) · [Play](https://seanbouk.github.io/nokia-grinder/) · [itch.io](https://seanofearth.itch.io/chicken-grinder)　`>(.)> bg bg bg`
 
 ---
 
@@ -138,9 +136,9 @@ An MVC starter template for Roblox game development. Strict separation of concer
 
 ### ![a10-megadrive](https://img.shields.io/badge/A10_MegaDrive-636e72?style=for-the-badge)
 
-An A10 Warthog game for the Sega Mega Drive / Genesis. A 16-bit cartridge game written in C, targeting the original hardware.
+An A10 Warthog game for the Sega Mega Drive / Genesis. A tech demo built to get to grips with SGDK — but it compiles to a working ROM that runs on real hardware.
 
-`C` `Mega Drive`
+`C` `SGDK` `Mega Drive`
 
 [Repo](https://github.com/seanbouk/A10_MegaDrive)　`──═══✈ brrrt`
 
@@ -152,7 +150,7 @@ Converts RGB images into tile-based representations optimised for the Sega Mega 
 
 `Python` `Pillow` `NumPy` `scikit-learn`
 
-[Repo](https://github.com/seanbouk/quantizeMD)　`▓▒░ ░▒▓`
+[Repo](https://github.com/seanbouk/quantizeMD)　`▓▒░░▒▓`
 
 ---
 
