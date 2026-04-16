@@ -111,19 +111,6 @@ A modified wave function collapse algorithm that makes plants and trees reproduc
 
 ---
 
-### ![adblacker](https://img.shields.io/badge/Ad_Blacker-2d3436?style=for-the-badge)
-
-> [!WARNING]
-> Paused while finding time to make it more performant.
-
-A Chrome extension that hides ads by covering them with black rectangles instead of blocking them from loading. Ads execute normally — they're just invisible. This sidesteps anti-adblock detection entirely. Click any black rectangle to whitelist it. 13,000+ cosmetic filter selectors, auto-updating weekly.
-
-`JavaScript` `CSS` `Chrome Manifest V3`
-
-[Repo](https://github.com/seanbouk/adblacker) · [Chrome Web Store](https://chromewebstore.google.com/detail/ad-blacker/galllgkmmpbhbedmglogoliijfohjica)　`[████████]`
-
----
-
 ### ![crims-break-out](https://img.shields.io/badge/Crims_Break_Out-f9ca24?style=for-the-badge)
 
 A top-down shooter for one to four players. Break out, gear up, and fight your way through. Built in Roblox Studio.
@@ -141,6 +128,29 @@ An MVC starter template for Roblox game development. Strict separation of concer
 `Luau` `Rojo` `Roblox Studio`
 
 [Repo](https://github.com/seanbouk/extraction-shooter) · [Play on Roblox](https://www.roblox.com/games/71526168042985/Extraction-Shooter-First-Contact)　`︻╦╤─(⌐■_■)`
+
+---
+
+### ![are-you-really-left-wing](https://img.shields.io/badge/Are_You_Really_Left_Wing%3F-c0392b?style=for-the-badge)
+
+A political quiz that measures where you fall across 12 independent scales — from economics to governance to personal freedom — rather than flattening everything onto a single left-right spectrum. Most people turn out more centrist than they think.
+
+`JavaScript` `CSS` `HTML`
+
+[Repo](https://github.com/seanbouk/are-you-really-left-wing) · [Take the quiz](https://seanbouk.github.io/are-you-really-left-wing/)　`<(~_~<) (>~_~)>`
+
+---
+
+### ![adblacker](https://img.shields.io/badge/Ad_Blacker-2d3436?style=for-the-badge)
+
+> [!WARNING]
+> Paused while finding time to make it more performant.
+
+A Chrome extension that hides ads by covering them with black rectangles instead of blocking them from loading. Ads execute normally — they're just invisible. This sidesteps anti-adblock detection entirely. Click any black rectangle to whitelist it. 13,000+ cosmetic filter selectors, auto-updating weekly.
+
+`JavaScript` `CSS` `Chrome Manifest V3`
+
+[Repo](https://github.com/seanbouk/adblacker) · [Chrome Web Store](https://chromewebstore.google.com/detail/ad-blacker/galllgkmmpbhbedmglogoliijfohjica)　`[████████]`
 
 ---
 
