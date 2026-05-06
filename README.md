@@ -11,6 +11,16 @@
 
 ## Projects
 
+### ![mun-craft](https://img.shields.io/badge/Mun_Craft-a29bfe?style=for-the-badge)
+
+A first-person voxel game set on a small handmade planet — Minecraft meets Mario Galaxy. Gravity is derived from the planet's mass via a Barnes-Hut octree, so as you mine blocks the gravitational field updates with the shape — dig deep enough and "up" starts pointing somewhere new. Built on a body-centred cubic lattice with 14-sided truncated octahedron blocks.
+
+`C#` `Unity` `WebGL`
+
+[Repo](https://github.com/seanbouk/mun-craft) · [Play](https://seanbouk.github.io/mun-craft/) · [itch.io](https://seanofearth.itch.io/mun-craft)　`[■][□][■]`
+
+---
+
 ### ![nokia-grinder](https://img.shields.io/badge/Nokia_Grinder-43d551?style=for-the-badge)
 
 A first-person shooter rendered at 84x48 pixels — the exact resolution of a Nokia 3310 screen. Fight chickens, collect roasted meat, and grind items for points, all in glorious 1-bit monochrome with three classic colour palettes to choose from.
@@ -21,13 +31,16 @@ A first-person shooter rendered at 84x48 pixels — the exact resolution of a No
 
 ---
 
-### ![mun-craft](https://img.shields.io/badge/Mun_Craft-a29bfe?style=for-the-badge)
+### ![midi-device-debug](https://img.shields.io/badge/MIDI_Device_Debug-8e44ad?style=for-the-badge)
 
-A first-person voxel game set on a small handmade planet. Gravity is derived from the planet's shape using a Barnes-Hut octree, so as you mine blocks the gravitational field changes with it — dig deep enough and "up" starts pointing somewhere new. Built on a body-centred cubic lattice with truncated octahedron meshing.
+> [!NOTE]
+> A more functional product is on the way. This one's perfectly usable now though — bug reports and feedback welcome.
 
-`C#` `Unity` `WebGL`
+A single-page Web MIDI debug tool. Lists MIDI devices the browser sees, decodes incoming messages with consecutive duplicates collapsed into a `×N` counter, and routes them through five sound engines — PSG, six-operator FM with twelve DX-style presets, eight-position wavetable, three synthesised drum kits (TR-606 / 80s gated / CR-78), and a GM soundfont sampler — for instant audible feedback. Pitch bend, mod wheel, and sustain pedal work across every engine.
 
-[Repo](https://github.com/seanbouk/mun-craft) · [Play](https://seanbouk.github.io/mun-craft/)　`[■][□][■]`
+`JavaScript` `Web MIDI` `Web Audio`
+
+[Repo](https://github.com/seanbouk/midi-device-debug) · [Try it](https://seanbouk.github.io/midi-device-debug/)　`♪♩♫♪♩`
 
 ---
 
@@ -189,4 +202,4 @@ A collection of small web tools from over the years — Paint Mixer, Camera Sett
 
 ---
 
-<sub>Last updated: April 2026 · built with <kbd>caffeine</kbd> + <kbd>stubbornness</kbd></sub>
+<sub>Last updated: May 2026 · built with <kbd>caffeine</kbd> + <kbd>stubbornness</kbd></sub>
