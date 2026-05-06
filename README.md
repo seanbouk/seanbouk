@@ -11,7 +11,7 @@
 
 ## Projects
 
-### ![mun-craft](https://img.shields.io/badge/Mun_Craft-a29bfe?style=for-the-badge)
+### ![mun-craft](titles/svg/mun-craft.svg)
 
 A first-person voxel game set on a small handmade planet — Minecraft meets Mario Galaxy. Gravity is derived from the planet's mass via a Barnes-Hut octree, so as you mine blocks the gravitational field updates with the shape — dig deep enough and "up" starts pointing somewhere new. Built on a body-centred cubic lattice with 14-sided truncated octahedron blocks.
 
@@ -21,7 +21,7 @@ A first-person voxel game set on a small handmade planet — Minecraft meets Mar
 
 ---
 
-### ![nokia-grinder](https://img.shields.io/badge/Nokia_Grinder-43d551?style=for-the-badge)
+### ![nokia-grinder](titles/svg/nokia-grinder.svg)
 
 A first-person shooter rendered at 84x48 pixels — the exact resolution of a Nokia 3310 screen. Fight chickens, collect roasted meat, and grind items for points, all in glorious 1-bit monochrome with three classic colour palettes to choose from.
 
@@ -31,7 +31,7 @@ A first-person shooter rendered at 84x48 pixels — the exact resolution of a No
 
 ---
 
-### ![midi-device-debug](https://img.shields.io/badge/MIDI_Device_Debug-8e44ad?style=for-the-badge)
+### ![midi-device-debug](titles/svg/midi-device-debug.svg)
 
 > [!NOTE]
 > A more functional product is on the way. This one's perfectly usable now though — bug reports and feedback welcome.
@@ -44,7 +44,7 @@ A single-page Web MIDI debug tool. Lists MIDI devices the browser sees, decodes 
 
 ---
 
-### ![Kumite](https://img.shields.io/badge/Kumite-d63031?style=for-the-badge)
+### ![Kumite](titles/svg/kumite.svg)
 
 A fighting game move trainer. Plug in a gamepad, pick a game, and drill combos until they're muscle memory. Tracks your mastery percentage and current streak across sessions.
 
@@ -54,7 +54,7 @@ A fighting game move trainer. Plug in a gamepad, pick a game, and drill combos u
 
 ---
 
-### ![hormuz-sweeper](https://img.shields.io/badge/Hormuz_Sweeper-0984e3?style=for-the-badge)
+### ![hormuz-sweeper](titles/svg/hormuz-sweeper.svg)
 
 Minesweeper, but the grid follows the real coastline of the Strait of Hormuz. Land areas — the Iranian coast, Musandam Peninsula, and islands — are impassable. A joke game about one of the most geopolitically tense waterways on earth, through which roughly 20% of the world's oil transits.
 
@@ -64,7 +64,7 @@ Minesweeper, but the grid follows the real coastline of the Strait of Hormuz. La
 
 ---
 
-### ![space-finder](https://img.shields.io/badge/Space_Finder-fdcb6e?style=for-the-badge)
+### ![space-finder](titles/svg/space-finder.svg)
 
 A hill-climbing algorithm that generates dense, walkable urban layouts on a grid. Simulates patterns found in cottage courts and medieval villages by toggling cells and scoring against hard rules (access, connectivity) and soft rules (density, enclosure, plazas, dead-ends). Paint the grid by hand or let it evolve.
 
@@ -74,7 +74,7 @@ A hill-climbing algorithm that generates dense, walkable urban layouts on a grid
 
 ---
 
-### ![trello-card-factory](https://img.shields.io/badge/Card_Factory-0079bf?style=for-the-badge)
+### ![trello-card-factory](titles/svg/card-factory.svg)
 
 A Trello Power-Up that turns any card into a template. Enable Card Factory on a card, drop images onto it, and it batch-creates new cards with all the original's attributes — labels, members, checklists, custom fields, the lot. Built for workflows with repetitive card setups and unique content.
 
@@ -84,7 +84,7 @@ A Trello Power-Up that turns any card into a template. Enable Card Factory on a 
 
 ---
 
-### ![markupable](https://img.shields.io/badge/Markupable-e84393?style=for-the-badge)
+### ![markupable](titles/svg/markupable.svg)
 
 A Trello Power-Up for annotating image attachments. Open any image in a full-screen canvas, draw freehand, drop numbered markers, and leave threaded text notes — all stored against the card. Six-colour palette, sidebar annotation list, and inline previews.
 
@@ -94,7 +94,7 @@ A Trello Power-Up for annotating image attachments. Open any image in a full-scr
 
 ---
 
-### ![extract-roblox-analytics](https://img.shields.io/badge/Extract_Roblox_Analytics-00cec9?style=for-the-badge)
+### ![extract-roblox-analytics](titles/svg/extract-roblox-analytics.svg)
 
 Extracts sales data from Roblox Creator Dashboard analytics charts in under a second. Rather than simulating tooltip hovers or hitting an API, it reverse-engineers the Highcharts SVG to pull the underlying data directly. Outputs JSON and CSV.
 
@@ -104,7 +104,7 @@ Extracts sales data from Roblox Creator Dashboard analytics charts in under a se
 
 ---
 
-### ![roblox-avatar-downloader](https://img.shields.io/badge/Avatar_Downloader-6c5ce7?style=for-the-badge)
+### ![roblox-avatar-downloader](titles/svg/avatar-downloader.svg)
 
 A browser-based tool for batch-downloading Roblox avatar images from a list of user IDs. Grid preview, individual and bulk downloads, mobile-friendly.
 
@@ -114,7 +114,7 @@ A browser-based tool for batch-downloading Roblox avatar images from a list of u
 
 ---
 
-### ![plant-grid](https://img.shields.io/badge/Plant_Grid-00b894?style=for-the-badge)
+### ![plant-grid](titles/svg/plant-grid.svg)
 
 A modified wave function collapse algorithm that makes plants and trees reproduce in a way which favours an existing planting pattern. Place bluebells, bracken, mushrooms, oaks, birches, and pines on a grid, then set both dropdowns to start and watch them propagate.
 
@@ -124,7 +124,7 @@ A modified wave function collapse algorithm that makes plants and trees reproduc
 
 ---
 
-### ![crims-break-out](https://img.shields.io/badge/Crims_Break_Out-f9ca24?style=for-the-badge)
+### ![crims-break-out](titles/svg/crims-break-out.svg)
 
 A top-down shooter for one to four players. Break out, gear up, and fight your way through. Built in Roblox Studio.
 
@@ -134,7 +134,7 @@ A top-down shooter for one to four players. Break out, gear up, and fight your w
 
 ---
 
-### ![extraction-shooter](https://img.shields.io/badge/Extraction_Shooter-e17055?style=for-the-badge)
+### ![extraction-shooter](titles/svg/extraction-shooter.svg)
 
 An MVC starter template for Roblox game development. Strict separation of concerns — models on the server auto-sync to DataStore, controllers validate requests, views observe state changes. Built around "intents, not commands" with binary serialisation via Bolt for bandwidth efficiency.
 
@@ -144,7 +144,7 @@ An MVC starter template for Roblox game development. Strict separation of concer
 
 ---
 
-### ![are-you-really-left-wing](https://img.shields.io/badge/Are_You_Really_Left_Wing%3F-c0392b?style=for-the-badge)
+### ![are-you-really-left-wing](titles/svg/are-you-really-left-wing.svg)
 
 A political quiz that measures where you fall across 12 independent scales — from economics to governance to personal freedom — rather than flattening everything onto a single left-right spectrum. Most people turn out more centrist than they think.
 
@@ -154,7 +154,7 @@ A political quiz that measures where you fall across 12 independent scales — f
 
 ---
 
-### ![adblacker](https://img.shields.io/badge/Ad_Blacker-2d3436?style=for-the-badge)
+### ![adblacker](titles/svg/ad-blacker.svg)
 
 > [!CAUTION]
 > Paused while finding time to make it more performant.
@@ -167,7 +167,7 @@ A Chrome extension that hides ads by covering them with black rectangles instead
 
 ---
 
-### ![a10-megadrive](https://img.shields.io/badge/A10_MegaDrive-636e72?style=for-the-badge)
+### ![a10-megadrive](titles/svg/a10-megadrive.svg)
 
 An A10 Warthog game for the Sega Mega Drive / Genesis. A tech demo built to get to grips with SGDK — but it compiles to a working ROM that runs on real hardware.
 
@@ -177,7 +177,7 @@ An A10 Warthog game for the Sega Mega Drive / Genesis. A tech demo built to get 
 
 ---
 
-### ![quantizeMD](https://img.shields.io/badge/quantizeMD-fd79a8?style=for-the-badge)
+### ![quantizeMD](titles/svg/quantizemd.svg)
 
 Converts RGB images into tile-based representations optimised for the Sega Mega Drive. Reduces tile count, applies dithering, and constrains colours to the console's 3-bits-per-channel palette. Includes tools for splitting images across two 16-colour palettes for expanded colour range.
 
@@ -187,7 +187,17 @@ Converts RGB images into tile-based representations optimised for the Sega Mega 
 
 ---
 
-### ![juicysatsuma](https://img.shields.io/badge/Juicy_Satsuma-e67e22?style=for-the-badge)
+### ![self-titling](titles/svg/self-titling.svg)
+
+You know those flowing project titles you've been scrolling past? They live right here in this repo as picture files, drawn from a list and a font by a tiny script. A robot reruns it whenever I change the list. Why bother? So that years from now, when half the internet has moved on, this page still looks the way I left it.
+
+`Node` `SVG` `GitHub Actions`
+
+[Source](titles/)　`∽∼∽∼∽∼∽`
+
+---
+
+### ![juicysatsuma](titles/svg/juicy-satsuma.svg)
 
 A collection of small web tools from over the years — Paint Mixer, Camera Settings Adjustor, Costings Predictor, Half-Life Calculator, Tuned Spectrum Analyser, and more. Mostly here so I can find them again.
 
