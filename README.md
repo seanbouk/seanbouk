@@ -189,7 +189,7 @@ Converts RGB images into tile-based representations optimised for the Sega Mega 
 
 ### ![self-titling](titles/svg/self-titling.svg)
 
-You know those flowing project titles you've been scrolling past? They live right here in this repo as picture files, drawn from a list and a font by a tiny script. A robot reruns it whenever I change the list. Why bother? So that years from now, when half the internet has moved on, this page still looks the way I left it.
+A title-image generator. It reads project names and colours from a YAML file, then writes each entry to a static SVG with the text rendered as paths in a cursive font. Every title in this README comes from it. The `titles/` folder is self-contained — anyone is welcome to copy it, swap the font and config, and use it for their own.
 
 `Node` `SVG` `GitHub Actions`
 
